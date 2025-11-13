@@ -71,7 +71,7 @@ A snippet from a discord conversation about this subject:
   <summary>
 6. Incentivizing miners to hold alpha with emissions is strictly prohibited.
   </summary>
-  TODO
+  This _does_ include withholding emissions unless a miner keeps a certain amount of alpha
 </details>
 <details>
   <summary>
@@ -102,6 +102,12 @@ A snippet from a discord conversation about this subject:
 11. New miners must be able to join the subnet and survive the immunity process.
   </summary>
   Again, there were cases where this was exploited by a self-mining subnet owner who has made it easier for him to not have to really fight for the uid slots. Bittensor is permissionless, so a highly performing miner should be able to join to improve the digital commodity the subnet produces. If that's not the case then the relative quality will deteriorate with time as miners become complacent due to limited competition. 
+</details>
+<details>
+  <summary>
+12. The subnet must be add meaningful value to the ecosystem (but only if the subnet slot was registered before 2025-11-05).
+  </summary>
+  A fork with minimal changes or subnet template customized a little bit using AI might not qualify. If a subnet was registered after 2025-11-05, then it didn't build up liquidity due to passing low requirements of dtao 1 which were "have a price higher than zero", which now doesn't need to be protected from exploitation.
 </details>
 
 # Consequences
